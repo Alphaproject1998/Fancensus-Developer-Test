@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+select {
+    background-position: right .15rem center;
+    padding-right: 1.5rem !important;
+    background-color: rgb(17 24 39 / var(--tw-bg-opacity)) !important;
+}
+
+button i {
+    margin-left: .5rem;
+}
